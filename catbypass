@@ -40,7 +40,7 @@ local Window = ArrayField:CreateWindow({
       Invite = "zfGqpUkF6w", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
-   KeySystem = false, -- Set this to true to use our key system
+   KeySystem = true, -- Set this to true to use our key system
    KeySettings = {
       Title = "Key system!",
       Subtitle = "Enter the key!",
@@ -56,7 +56,7 @@ local Window = ArrayField:CreateWindow({
                 end,
                 }
             },
-      Key = {"ilovepizza"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+      Key = {"kitty"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
 
@@ -519,6 +519,25 @@ local Button = Tab:CreateButton({
                                                     end,
                                                     })
 
+local Button = Tab:CreateButton({
+                                                Name = "epic r￴￴￴￴a￴￴￴￴￴￴p￴￴￴in￴￴￴g session ￴￴￴￴at j￴￴￴e￴￴￴r￴￴￴￴k￴￴￴o￴￴￴￴f￴￴￴￴f￴￴￴￴w￴￴￴￴i￴￴￴￴t￴￴￴￴h￴￴￴￴m￴￴￴￴e￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m!",
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("epicr￴￴￴￴a￴￴￴￴￴￴p￴￴￴in￴￴￴gsession￴￴￴￴atj￴￴￴e￴￴￴r￴￴￴￴k￴￴￴o￴￴￴￴f￴￴￴￴f￴￴￴￴w￴￴￴￴i￴￴￴￴t￴￴￴￴h￴￴￴￴m￴￴￴￴e￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m!")
+                                                    
+                                                    end,
+                                                    })
+
+local Button = Tab:CreateButton({
+                                                Name = "s￴￴￴￴s￴￴￴s￴￴n￴￴i￴￴p￴￴￴e￴￴￴r￴￴￴w￴￴￴￴olf showing her b￴￴￴i￴￴￴g t￴￴￴i￴￴￴￴t￴￴￴t￴￴￴i￴￴￴e￴￴￴￴s￴￴￴!",
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("s￴￴￴￴s￴￴￴s￴￴n￴￴i￴￴p￴￴￴e￴￴￴r￴￴￴w￴￴￴￴olfshowingherb￴￴￴i￴￴￴gt￴￴￴i￴￴￴￴t￴￴￴t￴￴￴i￴￴￴e￴￴￴￴s￴￴￴!￴￴￴￴￴￴")
+                                                    
+                                                    end,
+                                                    })
+
+
 
 
 local Tab = Window:CreateTab("racist", 4483362458) -- Title, Image
@@ -674,7 +693,16 @@ local Button = Tab:CreateButton({
                                                 
                                              end,
                                           })
-                                           
+
+
+local Button = Tab:CreateButton({
+                                             Name = "woow! that is really niggerspectful!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("woow!t￴￴￴￴ha￴￴￴tisr￴￴￴￴e￴￴￴al￴￴￴l￴￴￴￴yn￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴￴e￴￴￴￴r￴￴￴￴￴sp￴￴￴e￴￴￴￴c￴￴￴tf￴￴￴ul!")
+                                                
+                                             end,
+                                          })
 
                     
 
@@ -1125,7 +1153,7 @@ local Input = Tab:CreateInput({
    RemoveTextAfterFocusLost = false, -- Speaks for itself.
    Callback = function(Text)
       -- Corrected version to display the input Text dynamically
-      Chat("" .. Text .. "￴ӏ￴￴￴￴￴o￴￴￴￴￴v￴￴￴￴e￴￴￴￴￴sg￴￴￴￴￴a￴￴￴￴s￴￴￴￴s￴￴￴￴i￴￴￴￴n￴￴￴￴gj￴￴￴￴￴e￴￴￴w￴￴￴￴s!")
+      Chat("" .. Text .. "￴ӏ￴￴￴￴￴o￴￴￴￴￴v￴￴￴￴e￴￴￴￴￴sg￴￴￴￴￴a￴￴￴￴s￴￴￴￴s￴￴￴￴i￴￴￴￴n￴￴￴￴gj￴￴￴￴￴e￴￴￴w￴￴￴￴s!")
    end,
 })
 
@@ -1137,9 +1165,23 @@ local Input = Tab:CreateInput({
    RemoveTextAfterFocusLost = false, -- Speaks for itself.
    Callback = function(Text)
       -- Corrected version to display the input Text dynamically
-      Chat("" .. Text .. "ӏ￴￴￴￴￴o￴￴￴￴￴v￴￴￴￴e￴￴￴￴￴s￴r￴￴￴￴￴a￴￴￴￴p￴￴￴￴￴i￴￴￴￴n￴￴￴￴g￴￴￴￴￴￴￴￴q￴￴￴u￴￴￴e￴￴￴e￴￴￴r￴￴￴￴s￴￴￴￴!")
+      Chat("" .. Text .. "ӏ￴￴￴￴￴o￴￴￴￴￴v￴￴￴￴e￴￴￴￴￴s￴r￴￴￴￴￴a￴￴￴￴p￴￴￴￴￴i￴￴￴￴n￴￴￴￴g￴￴￴￴￴￴￴￴q￴￴￴u￴￴￴e￴￴￴e￴￴￴r￴￴￴￴s￴￴￴￴!")
    end,
 })
+
+local Input = Tab:CreateInput({
+   Name = "your username loves raping queers!",
+   PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if
+   CharacterLimit = false, --max character limit. Remove or set to false
+   OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the box.
+   RemoveTextAfterFocusLost = false, -- Speaks for itself.
+   Callback = function(Text)
+      -- Corrected version to display the input Text dynamically
+      Chat("" .. Text .. "ӏ￴￴￴￴￴o￴￴￴￴￴v￴￴￴￴e￴￴￴￴￴s￴r￴￴￴￴￴a￴￴￴￴p￴￴￴￴￴i￴￴￴￴n￴￴￴￴g￴￴￴￴￴￴￴￴m￴￴￴i￴￴￴￴n￴￴￴￴o￴￴￴￴r￴￴￴￴s￴￴￴!")
+   end,
+})
+
+
 
 
 local Tab = Window:CreateTab("websites", 4483362458)
