@@ -628,7 +628,7 @@ local Button = Tab:CreateButton({
               
                                            }) 
 
-local Button = Tab:CreateButton({
+                                                 local Button = Tab:CreateButton({
                                                    Name = "shut up nigger monk!",
                                                    Interact = 'Click',
                                                    Callback = function()
@@ -639,7 +639,7 @@ local Button = Tab:CreateButton({
                                                    
                                                        }) 
 
-local Button = Tab:CreateButton({
+                                           local Button = Tab:CreateButton({
                                              Name = "did this blackass monkey just talk back to me?",
                                              Interact = 'Click',
                                              Callback = function()
@@ -648,7 +648,7 @@ local Button = Tab:CreateButton({
                                              end,
                                           })
 
-local Button = Tab:CreateButton({
+                                          local Button = Tab:CreateButton({
                                              Name = "listen to your master slave!",
                                              Interact = 'Click',
                                              Callback = function()
@@ -658,7 +658,7 @@ local Button = Tab:CreateButton({
                                           })
 
 
-local Button = Tab:CreateButton({
+                                           local Button = Tab:CreateButton({
                                              Name = "back to work monkey now!",
                                              Interact = 'Click',
                                              Callback = function()
@@ -667,7 +667,7 @@ local Button = Tab:CreateButton({
                                              end,
                                           })
 
-local Button = Tab:CreateButton({
+                                           local Button = Tab:CreateButton({
                                              Name = "woah! that is niggiculous!",
                                              Interact = 'Click',
                                              Callback = function()
@@ -1063,7 +1063,7 @@ local Button = Tab:CreateButton({
                                              end,
                                           })
 
-local Button = Tab:CreateButton({
+                                          local Button = Tab:CreateButton({
                                              Name = "lick that fat cock sex slave!",
                                              Interact = 'Click',
                                              Callback = function()
@@ -1170,7 +1170,7 @@ local Input = Tab:CreateInput({
 })
 
 local Input = Tab:CreateInput({
-   Name = "your username loves raping queers!",
+   Name = "your username loves raping minors!",
    PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if
    CharacterLimit = false, --max character limit. Remove or set to false
    OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the box.
@@ -1241,7 +1241,6 @@ local Button = Tab:CreateButton({
                                           Chat("r￴￴￴￴e￴￴￴￴d￴￴￴￴t￴￴￴u￴￴￴￴b￴￴￴￴e￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m￴￴￴￴￴￴￴￴")
                                        end,
                                     })
-
 local Button = Tab:CreateButton({
                                        Name = "x￴￴￴￴v￴￴￴￴i￴￴￴d￴￴￴e￴￴￴o￴￴￴s￴￴￴￴.com",
                                        Interact = 'Click',
