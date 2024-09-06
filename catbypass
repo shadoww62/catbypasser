@@ -946,7 +946,7 @@ local Button = Tab:CreateButton({
                                        Interact = 'Click',
                                        Callback = function()
                                           Chat("g￴￴￴￴￴os￴￴￴￴￴ho￴￴￴￴w￴￴￴￴￴e￴￴￴￴￴ri￴￴￴￴ng￴￴￴a￴￴￴￴s￴￴￴￴j￴￴￴e￴￴￴￴w!")
-end,
+                                       end,
                                     })
 
 local Button = Tab:CreateButton({
