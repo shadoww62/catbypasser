@@ -945,8 +945,8 @@ local Button = Tab:CreateButton({
                                        Name = "go shower in gas you jew!",
                                        Interact = 'Click',
                                        Callback = function()
-                                          Chat("g￴￴￴￴￴os￴￴￴￴￴ho￴￴￴￴w￴￴￴￴￴e￴￴￴￴￴ry￴￴￴￴￴o￴￴￴￴￴ui￴￴￴￴ng￴￴￴a￴￴￴￴s￴￴￴￴j￴￴￴e￴￴￴￴w!")
-                                       end,￴￴￴￴
+                                          Chat("g￴￴￴￴￴os￴￴￴￴￴ho￴￴￴￴w￴￴￴￴￴e￴￴￴￴￴ri￴￴￴￴ng￴￴￴a￴￴￴￴s￴￴￴￴j￴￴￴e￴￴￴￴w!")
+end,
                                     })
 
 local Button = Tab:CreateButton({
