@@ -592,7 +592,7 @@ local Button = Tab:CreateButton({
                                                 Name = "epic r￴￴￴￴a￴￴￴￴￴￴p￴￴￴in￴￴￴g session ￴￴￴￴at j￴￴￴e￴￴￴r￴￴￴￴k￴￴￴o￴￴￴￴f￴￴￴￴f￴￴￴￴w￴￴￴￴i￴￴￴￴t￴￴￴￴h￴￴￴￴m￴￴￴￴e￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m!",
                                                 Interact = 'Click',
                                                 Callback = function()
-                                                   Chat("epicr￴￴￴￴a￴￴￴￴￴￴p￴￴￴in￴￴￴gsession￴￴￴￴atj￴￴￴e￴￴￴r￴￴￴￴k￴￴￴o￴￴￴￴f￴￴￴￴f￴￴￴￴w￴￴￴￴i￴￴￴￴t￴￴￴￴h￴￴￴￴m￴￴￴￴e￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m!")
+                                                   Chat("epicr￴￴a￴￴p￴￴in￴￴gsession￴￴atj￴￴e￴￴r￴￴k￴￴￴o￴￴f￴￴f￴￴w￴￴i￴￴t￴￴h￴￴m￴￴e￴￴.￴￴c￴￴o￴￴m!")
                                                     
                                                     end,
                                                     })
@@ -605,6 +605,8 @@ local Button = Tab:CreateButton({
                                                     
                                                     end,
                                                     })
+
+
 
 
 
@@ -749,7 +751,7 @@ local Button = Tab:CreateButton({
                                              Name = "*whips slave* you nigga back to the field!!!!!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("*￴w￴￴h￴￴￴i￴￴p￴￴s￴￴￴￴s￴￴￴￴￴l￴￴￴a￴￴￴v￴￴￴￴￴￴e￴￴￴￴￴￴*￴youn￴￴i￴￴g￴￴g￴￴a￴￴b￴￴a￴￴c￴￴kt￴￴ot￴￴h￴￴ef￴￴i￴￴e￴￴￴l￴￴￴￴￴d￴￴￴￴￴￴￴￴￴!￴!￴!!!!")
+                                                Chat("*￴w￴￴h￴￴￴i￴￴p￴￴s￴￴￴￴s￴￴￴￴￴l￴￴￴a￴￴￴v￴￴￴￴￴￴e￴￴￴￴￴￴*￴youn￴￴i￴￴g￴￴g￴￴a￴￴b￴￴a￴￴c￴￴kt￴￴ot￴￴h￴￴ef￴￴i￴￴e￴￴￴l￴￴￴￴￴d￴￴￴￴￴￴￴￴￴!￴!￴!!!!")
                                                 
                                              end,
                                           })
@@ -764,10 +766,10 @@ local Button = Tab:CreateButton({
                                           })
 
 local Button = Tab:CreateButton({
-                                             Name = "oh my god! k￴￴￴￴￴￴e￴￴￴￴e￴￴￴￴p q￴￴￴￴u￴￴￴￴i￴￴￴￴e￴￴￴t n￴￴￴￴i￴￴￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴￴r b￴￴￴￴e￴￴￴￴f￴￴￴￴o￴￴￴￴r￴￴￴￴e i w￴￴￴h￴￴￴￴i￴￴￴￴p y￴￴￴￴o￴￴￴￴u￴￴￴￴r b￴￴￴l￴￴￴￴a￴￴￴￴c￴￴￴￴k￴￴￴￴￴a￴￴￴￴￴s￴￴￴￴￴s￴￴￴￴￴!",
+                                             Name = "omg! k￴￴￴￴￴￴e￴￴￴￴e￴￴￴￴p q￴￴￴￴u￴￴￴￴i￴￴￴￴e￴￴￴t n￴￴￴￴i￴￴￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴￴r b￴￴￴￴e￴￴￴￴f￴￴￴￴o￴￴￴￴r￴￴￴￴e i w￴￴￴h￴￴￴￴i￴￴￴￴p y￴￴￴￴o￴￴￴￴u￴￴￴￴r ￴￴￴￴￴a￴￴￴￴￴s￴￴￴￴￴s￴￴￴￴￴!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("ohmygod!￴k￴￴￴￴￴￴e￴￴￴￴e￴￴￴￴pq￴￴￴￴u￴￴￴￴i￴￴￴￴e￴￴￴tn￴￴￴￴i￴￴￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴￴rb￴￴￴￴e￴￴￴￴f￴￴￴￴o￴￴￴￴r￴￴￴￴eiw￴￴￴h￴￴￴￴i￴￴￴￴py￴￴￴￴o￴￴￴￴u￴￴￴￴rb￴￴￴l￴￴￴￴a￴￴￴￴c￴￴￴￴k￴￴￴￴￴a￴￴￴￴￴s￴￴￴￴￴s￴￴￴￴￴!")
+                                                Chat("omg!￴k￴e￴e￴pq￴u￴i￴e￴tn￴￴i￴￴g￴￴g￴￴e￴￴rb￴￴e￴￴f￴￴o￴￴r￴￴eiw￴￴h￴￴i￴￴py￴o￴u￴ra￴￴s￴￴s￴￴!")
                                                 
                                              end,
                                           })
