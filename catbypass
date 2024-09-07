@@ -28,7 +28,7 @@ local ArrayField = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI
 
 local Window = ArrayField:CreateWindow({
    Name = "catbypasser",
-   LoadingTitle = "catbypasser v1.2",
+   LoadingTitle = "catbypasser v1.3",
    LoadingSubtitle = "by shadow62",
    ConfigurationSaving = {
       Enabled = true,
@@ -56,16 +56,18 @@ local Window = ArrayField:CreateWindow({
                 end,
                 }
             },
-      Key = {"kitty"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+      Key = {"glock19"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
 
        
       local Tab = Window:CreateTab("Main", 4483362458) -- Title, Image
        
-      local Label = Tab:CreateLabel("made by shadow62 and c2vp")
+ Label = Tab:CreateLabel("made by shadow62 and c2vp")
       
       local Label = Tab:CreateLabel("have fun roasting fags")
+
+local Label = Tab:CreateLabel("! DONT COMPLAIN IT DOESNT WORK, JUST DONT SPAM! IF MESSAGES ARE GETTING TAGGED THEN WAIT 15 SECONDS, TYPE ABC or USE ANOTHER BYPASS AND IT WONT GET TAGGED!")
       
       local Button = Tab:CreateButton({
     Name = "Fix tagging",
@@ -753,10 +755,19 @@ local Button = Tab:CreateButton({
                                           })
 
 local Button = Tab:CreateButton({
-                                             Name = "woah! that is really niggerful!",
+                                             Name = "woah! that is quite niggerful!",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("w￴￴￴o￴￴￴w!t￴￴￴￴ha￴￴￴tisr￴￴￴￴e￴￴￴al￴￴￴l￴￴￴￴yn￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴￴e￴￴￴￴r￴￴￴￴￴ful!")
+                                                Chat("w￴￴￴o￴￴￴w!t￴￴￴￴ha￴￴￴tisq￴￴￴￴u￴￴￴i￴￴￴t￴￴￴en￴￴￴￴i￴￴￴￴￴g￴￴￴￴￴g￴￴￴￴￴e￴￴￴￴r￴￴￴￴￴ful!")
+                                                
+                                             end,
+                                          })
+
+local Button = Tab:CreateButton({
+                                             Name = "oh my god! k￴￴￴￴￴￴e￴￴￴￴e￴￴￴￴p q￴￴￴￴u￴￴￴￴i￴￴￴￴e￴￴￴t n￴￴￴￴i￴￴￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴￴r b￴￴￴￴e￴￴￴￴f￴￴￴￴o￴￴￴￴r￴￴￴￴e i w￴￴￴h￴￴￴￴i￴￴￴￴p y￴￴￴￴o￴￴￴￴u￴￴￴￴r b￴￴￴l￴￴￴￴a￴￴￴￴c￴￴￴￴k￴￴￴￴￴a￴￴￴￴￴s￴￴￴￴￴s￴￴￴￴￴!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("ohmygod!￴k￴￴￴￴￴￴e￴￴￴￴e￴￴￴￴pq￴￴￴￴u￴￴￴￴i￴￴￴￴e￴￴￴tn￴￴￴￴i￴￴￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴￴rb￴￴￴￴e￴￴￴￴f￴￴￴￴o￴￴￴￴r￴￴￴￴eiw￴￴￴h￴￴￴￴i￴￴￴￴py￴￴￴￴o￴￴￴￴u￴￴￴￴rb￴￴￴l￴￴￴￴a￴￴￴￴c￴￴￴￴k￴￴￴￴￴a￴￴￴￴￴s￴￴￴￴￴s￴￴￴￴￴!")
                                                 
                                              end,
                                           })
@@ -965,6 +976,17 @@ local Button = Tab:CreateButton({
                                            end,
               
                                            }) 
+
+Button = Tab:CreateButton({
+                                       Name = "no one gives a fuck cuntboy!",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("n￴￴￴￴oo￴￴￴￴￴n￴￴￴￴eg￴￴￴￴i￴￴￴￴￴v￴￴￴￴￴e￴￴￴￴￴saf￴￴￴￴￴￴u￴￴￴￴￴c￴￴￴￴kc￴￴￴￴u￴￴￴￴￴￴n￴￴￴￴￴t￴￴￴￴boy!")
+                                           
+                                           end,
+              
+                                           }) 
+
 
                                      local Tab = Window:CreateTab("nazi", 4483362458) -- Title, Image
 
@@ -1633,7 +1655,7 @@ local Button = Tab:CreateButton({
                                        end,
                                     })
 
-local Button = Tab:CreateButton({
+Button = Tab:CreateButton({
                                        Name = "wow! you must be a wild fucking animal!",
                                        Interact = 'Click',
                                        Callback = function()
@@ -1649,4 +1671,3 @@ Button = Tab:CreateButton({
                                           Chat("u￴￴￴s￴￴￴em￴￴￴yc￴￴￴o￴￴￴￴c￴￴￴￴￴k￴￴￴￴￴￴a￴￴￴sy￴￴￴o￴￴￴u￴￴￴rt￴￴￴a￴￴￴i￴￴￴li￴￴￴n￴￴￴s￴￴￴t￴￴￴￴e￴￴￴a￴￴d")
                                        end,
                                     })
-
