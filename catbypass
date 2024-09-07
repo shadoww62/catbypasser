@@ -704,6 +704,15 @@ local Button = Tab:CreateButton({
                                              end,
                                           })
 
+local Button = Tab:CreateButton({
+                                             Name = "i dont give no fucks slave",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("i￴d￴￴￴￴o￴￴￴￴￴n￴￴￴￴￴￴tg￴￴￴￴￴￴￴i￴￴￴￴￴￴v￴￴￴￴￴￴e￴￴￴￴n￴￴￴￴￴of￴￴￴￴￴￴￴u￴￴￴￴￴c￴￴￴￴￴￴k￴￴￴￴￴￴￴￴s￴￴￴￴￴s￴￴￴￴￴￴￴l￴￴￴￴a￴￴￴￴￴v￴￴￴￴￴￴￴￴e")
+                                                
+                                             end,
+                                          })
+
                     
 
 local Tab = Window:CreateTab("homophobic", 4483362458) -- Title, Image
@@ -1089,6 +1098,16 @@ local Button = Tab:CreateButton({
               
                                            }) 
 
+local Button = Tab:CreateButton({
+                                       Name = "biggest titties ive ever saw",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("bi￴￴￴￴gg￴￴￴￴￴￴￴es￴￴￴￴tt￴￴￴i￴￴￴t￴￴￴t￴￴￴i￴￴￴￴e￴￴￴￴s￴￴￴￴i￴￴￴￴veev￴￴￴￴ersaw!")
+                                           
+                                           end,
+              
+                                           }) 
+
 local Tab = Window:CreateTab("self glaze", 4483362458)
 
 local Input = Tab:CreateInput({
@@ -1181,6 +1200,20 @@ local Input = Tab:CreateInput({
    end,
 })
 
+local Input = Tab:CreateInput({
+   Name = "*user* runs niggas on oblock with his glock 19!",
+   PlaceholderText = "your username",
+   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if none.
+   CharacterLimit = false, --max character limit. Remove or set to false
+   OnEnter = true, -- Will callback only if the user pressed ENTER while being focused on the the box.
+   RemoveTextAfterFocusLost = false, -- Speaks for itself.
+   Callback = function(Text)
+Chat("".. (Text) .."r￴￴￴￴￴u￴￴￴￴￴nsn￴￴￴￴i￴￴￴￴￴￴g￴￴￴￴￴￴g￴￴￴￴￴￴a￴￴￴￴￴sono'b￴￴￴￴￴l￴￴￴ockw￴￴￴￴￴ithhisg￴￴￴lo￴￴￴￴￴￴￴c￴￴￴￴￴k1￴￴￴￴￴￴￴9!
+
+   -- The function that takes place when the input is changed
+   -- The variable (Text) is a string for the value in the text box
+   end,
+})
 
 
 
@@ -1264,6 +1297,22 @@ local Button = Tab:CreateButton({
                                           Chat("￴￴￴j￴￴￴e￴￴￴r￴￴￴￴k￴￴￴o￴￴￴￴f￴￴￴￴f￴￴￴￴w￴￴￴￴i￴￴￴￴t￴￴￴￴h￴￴￴￴m￴￴￴￴e￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m￴￴￴￴￴￴￴￴")
                                        end,
                                     })
+local Button = Tab:CreateButton({
+                                       Name = "watchpeopledie.com",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("w￴￴￴￴a￴￴￴￴￴t￴￴￴￴￴ch￴￴￴￴￴￴￴￴￴￴￴￴p￴￴￴￴eo￴￴￴￴￴￴p￴￴￴￴￴￴￴l￴￴￴￴e￴￴￴￴￴￴d￴￴￴￴￴￴i￴￴￴￴e￴￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m￴￴￴￴￴￴￴￴")
+                                       end,
+                                    
+
+local Button = Tab:CreateButton({
+                                       Name = "gaysex.com",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("g￴￴￴￴￴￴a￴￴￴￴￴￴y￴￴￴￴￴￴￴s￴￴￴￴￴￴￴￴e￴￴￴￴￴￴￴￴￴x￴￴￴￴￴￴￴￴￴￴￴￴￴￴￴￴￴.￴￴￴￴c￴￴￴￴o￴￴￴￴m￴￴￴￴￴￴￴￴")
+                                       end,
+                                    })
+
 
 local Tab = Window:CreateTab("roleplay", 4483362458)
 
@@ -1277,6 +1326,14 @@ local Button = Tab:CreateButton({
                                     })
 
 local Button = Tab:CreateButton({
+                                       Name = "*jerks off hard cock with lotion*",
+                                       Interact = 'Click',
+                                       Callback = function()
+                                          Chat("￴￴￴*s￴￴￴￴￴h￴￴￴￴￴o￴￴￴￴￴o￴￴￴￴￴￴tsc￴￴￴￴￴u￴￴￴￴￴￴￴￴￴￴￴m￴￴￴￴￴￴*￴￴￴￴￴￴￴￴")
+                                       end,
+                                    })
+
+local Button = Tab:CreateButton({
                                        Name = "*gets a boner*",
                                        Interact = 'Click',
                                        Callback = function()
@@ -1285,7 +1342,7 @@ local Button = Tab:CreateButton({
                                     })
 
 local Button = Tab:CreateButton({
-                                       Name = "*p￴￴￴￴u￴￴￴￴t￴￴￴￴s ￴￴￴￴l￴￴￴o￴￴￴t￴￴￴￴i￴￴￴￴o￴￴￴￴n￴￴￴￴￴ o￴￴￴n c￴￴￴￴o￴￴￴￴c￴￴￴￴k*￴￴￴￴",
+                        ￴￴￴￴               Name = "*p￴￴￴￴u￴￴￴￴t￴￴￴￴s ￴￴￴￴l￴￴￴o￴￴￴t￴￴￴￴i￴￴￴￴o￴￴￴￴n￴￴￴￴￴ o￴￴￴n c￴￴￴￴o￴￴￴￴c￴￴￴￴k*￴￴￴￴",
                                        Interact = 'Click',
                                        Callback = function()
                                           Chat("￴￴￴*p￴￴￴￴u￴￴￴￴t￴￴￴￴s￴￴￴￴l￴￴￴o￴￴￴t￴￴￴￴i￴￴￴￴o￴￴￴￴n￴￴￴￴￴o￴￴￴n￴￴￴c￴￴￴￴o￴￴￴￴c￴￴￴￴k*￴￴￴￴￴￴￴￴")
