@@ -24,16 +24,16 @@ local Chat = function(Message)
 	end
 end
 
-local ArrayField = loadstring(game:HttpGet('https://raw.githubusercontent.com/UI-Interface/ArrayField/main/Source.lua'))()
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
-local Window = ArrayField:CreateWindow({
+local Window = Rayfield:CreateWindow({
    Name = "catbypasser",
    LoadingTitle = "catbypasser v1.3",
    LoadingSubtitle = "by shadow62",
    ConfigurationSaving = {
       Enabled = true,
-      FolderName = nigganiggasex, -- Create a custom folder for your hub/game
-      FileName = "cocksex4862"
+      FolderName = SexyFuckingNiggers, -- Create a custom folder for your hub/game
+      FileName = "EpicGaySex10825"
    },
    Discord = {
       Enabled = true,
@@ -45,7 +45,7 @@ local Window = ArrayField:CreateWindow({
       Title = "Key system!",
       Subtitle = "Enter the key!",
       Note = "Go in our discord for key! discord.com/zfGqpUkF6w",
-      FileName = "pornhubvideos", -- It is recommended to use something unique as other scripts using ArrayField may overwrite your key file
+      FileName = "pornhubvideo241", -- It is recommended to use something unique as other scripts using ArrayField may overwrite your key file
       SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like ArrayField to get the key from
       Actions = {
@@ -56,7 +56,7 @@ local Window = ArrayField:CreateWindow({
                 end,
                 }
             },
-      Key = {"glock19"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+      Key = {"shadow62"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
    }
 })
 
@@ -67,8 +67,8 @@ local Window = ArrayField:CreateWindow({
       
       local Label = Tab:CreateLabel("have fun roasting fags")
 
-local Label = Tab:CreateLabel("! DONT COMPLAIN IT DOESNT WORK, JUST DONT SPAM! IF MESSAGES ARE GETTING TAGGED THEN WAIT 15 SECONDS, TYPE ABC or USE ANOTHER BYPASS AND IT WONT GET TAGGED!")
-      
+
+      local Paragraph = Tab:CreateParagraph({Title = "! DONT COMPLAIN IT DOESNT WORK !", Content = "JUST DONT SPAM! IF MESSAGES ARE GETTING TAGGED THEN WAIT 15 SECONDS, TYPE ABC or USE ANOTHER BYPASS AND IT WONT GET TAGGED!"})
       local Button = Tab:CreateButton({
     Name = "Fix tagging",
    Interact = 'Click',
@@ -110,6 +110,15 @@ local Button = Tab:CreateButton({
             Interact = 'Click',
             Callback = function()
                Chat("j￴￴￴o￴￴￴i￴￴￴n.￴￴￴￴g￴￴￴￴g￴￴￴￴/￴￴￴￴v￴￴￴￴C￴￴￴￴E￴￴￴￴Y￴￴￴￴n￴￴￴C￴￴￴X￴￴￴d￴￴￴g￴￴￴Uf￴￴￴￴o￴￴￴￴rp￴￴￴￴u￴￴￴s￴￴￴s￴￴￴y￴￴￴!")
+
+            end,
+        })
+
+ Button = Tab:CreateButton({
+            Name = "catbypasser gives u nigger slaves for 0$ dollars!",
+            Interact = 'Click',
+            Callback = function()
+               Chat("ca￴￴tb￴￴yp￴￴a￴s￴￴se￴￴￴r￴￴gi￴￴￴￴v￴￴e￴￴sun￴￴￴i￴￴g￴￴g￴￴e￴￴rs￴￴￴l￴￴￴a￴￴￴v￴￴￴e￴￴sf￴￴￴o￴￴￴r0￴￴$d￴￴o￴￴l￴￴￴l￴￴a￴￴r￴￴s!")
 
             end,
         })
@@ -452,6 +461,71 @@ local Button = Tab:CreateButton({
                                              end,
                                           })
 
+ Button = Tab:CreateButton({
+                                             Name = "skibidi fanum tax my cock retard!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("s￴k￴i￴b￴i￴d￴if￴a￴n￴u￴mt￴￴a￴￴xm￴yc￴￴￴o￴￴c￴￴￴kr￴￴e￴￴￴t￴￴￴a￴￴￴r￴￴￴d!")
+                                                
+                                             end,
+                                          })
+
+ Button = Tab:CreateButton({
+                                             Name = "this nigga talking in ''####''",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("t￴￴h￴￴￴￴isn￴￴￴i￴￴g￴￴g￴￴ata￴￴￴lki￴￴ngi￴￴n''#￴##￴#''😭😭")
+                                                
+                                             end,
+                                          })
+
+Button = Tab:CreateButton({
+                                             Name = "THIS NIGGA IS GETTING POSSESSED LOL",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("T￴￴H￴I￴￴SN￴￴I￴￴G￴￴G￴￴A￴￴I￴￴SG￴￴E￴￴T￴T￴￴I￴N￴GP￴OS￴SE￴SS￴E￴￴DLOL")
+                                                
+                                             end,
+                                          })
+
+Button = Tab:CreateButton({
+                                             Name = "ngl bro that was lame as fuck😭",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("n￴o￴tg￴o￴nl￴i￴eb￴￴r￴￴ot￴￴h￴￴a￴￴tw￴￴a￴￴sl￴￴a￴￴m￴￴ea￴sf￴￴u￴￴c￴￴k￴￴😭")
+                                                
+                                             end,
+                                          })
+
+Button = Tab:CreateButton({
+                                             Name = "gimme 20$ and ill suck that cock",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("g￴￴i￴￴m￴￴m￴￴e2￴￴0￴￴$a￴￴n￴￴￴￴dills￴￴u￴￴￴c￴￴kt￴￴h￴￴a￴￴tc￴￴o￴￴c￴￴k")
+                                                
+                                             end,
+                                          })
+
+Button = Tab:CreateButton({
+                                             Name = "this nigga tweakin wtf lol",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("t￴￴hisn￴i￴￴g￴￴g￴￴at￴￴w￴￴e￴￴a￴￴k￴￴i￴￴nw￴￴t￴￴f￴￴lol")
+                                                
+                                             end,
+                                          })
+
+Button = Tab:CreateButton({
+                                             Name = "get that dildo out of your ass!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("get￴t￴￴h￴￴a￴￴td￴￴i￴￴l￴￴￴d￴￴￴ooutofy￴￴o￴￴￴u￴￴ra￴￴￴s￴￴s￴￴￴!")
+                                                
+                                             end,
+                                          })
+
+
+
 local Input = Tab:CreateInput({
    Name = "your username is the fattest bitch on the planet!",
    PlaceholderText = "your username",   NumbersOnly = false, -- If the user can only type numbers. Remove or set to false if
@@ -494,7 +568,102 @@ local Button = Tab:CreateButton({
                                              
 
 
+
+
+                            local Tab = Window:CreateTab("Women", 4483362458) -- Title, Image
+
+Button = Tab:CreateButton({
+                                Name = "back to the dishes fat bitch!",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("b￴￴a￴￴c￴￴kt￴￴ot￴￴h￴￴ed￴￴i￴￴s￴￴h￴￴e￴￴sf￴￴a￴￴￴tb￴￴￴i￴￴t￴￴c￴￴h￴￴!")
+                                    
+                                    end,
+                                    })
+Button = Tab:CreateButton({
+                                Name = "''we fight for rights!'' how about i rape you?",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("''w￴￴ef￴i￴g￴￴h￴tf￴o￴rr￴i￴g￴h￴t￴s￴!''h￴o￴wa￴b￴o￴u￴tir￴￴a￴￴p￴￴￴e￴u￴?")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "times ticking bitch! get back to dishes!",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("t￴i￴m￴e￴st￴i￴c￴k￴i￴n￴g￴b￴￴i￴￴t￴￴c￴￴h￴￴!g￴e￴tb￴a￴c￴kt￴od￴i￴s￴h￴e￴s￴!")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "youre a slave, but for the kitchen",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("y￴￴o￴￴ur￴￴ea￴￴s￴￴l￴￴a￴￴v￴￴e,b￴￴u￴￴tf￴￴o￴￴rt￴￴h￴￴ek￴￴itc￴￴h￴￴e￴￴n")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "atp just change ur gender whore",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("a￴￴t￴￴pj￴￴u￴￴s￴￴tc￴￴h￴￴a￴￴n￴￴g￴￴eu￴￴rg￴￴e￴￴n￴￴d￴￴e￴￴rw￴￴h￴o￴￴r￴￴e")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "go 1 day without being a bitch, impossible!",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("g￴￴o1￴d￴￴a￴￴yw￴￴i￴￴t￴￴h￴￴o￴u￴￴tb￴￴e￴￴i￴￴n￴￴gab￴￴￴i￴￴t￴￴c￴￴h￴￴, i￴m￴￴p￴￴o￴s￴￴si￴￴b￴￴l￴￴e￴￴!")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "woah! i didnt know dishwashers can talk!",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("w￴o￴￴a￴￴h￴!id￴￴i￴d￴n￴tk￴no￴wd￴i￴s￴h￴w￴a￴s￴h￴er￴sc￴a￴nt￴a￴l￴k!")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "clean my fucking house bitch!",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("c￴le￴￴a￴nm￴￴￴yf￴￴u￴￴c￴￴k￴￴i￴￴n￴￴gh￴o￴u￴s￴eb￴￴￴i￴￴t￴￴c￴￴h￴￴!")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "shut the fuck up woman lol",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("s￴h￴u￴t￴t￴h￴ef￴￴u￴￴c￴￴ku￴￴pw￴￴o￴m￴￴a￴nl￴￴o￴￴l")
+                                    
+                                    end,
+                                    })
+
+Button = Tab:CreateButton({
+                                Name = "no bitch, get back to cleaning",
+                                Interact = 'Click',
+                                Callback = function()
+                                   Chat("n￴￴ob￴￴￴￴i￴￴￴￴￴t￴￴￴￴c￴￴￴￴￴h￴￴￴,g￴￴e￴￴tb￴￴a￴￴c￴￴kt￴￴￴ocl￴e￴an￴￴i￴￴n￴g")
+                                    
+                                    end,
+                                    })
+
+
                             local Tab = Window:CreateTab("troll", 4483362458) -- Title, Image
+
 
                             local Button = Tab:CreateButton({
                                 Name = "how many times a day do you jerk off?",
@@ -659,11 +828,51 @@ local Button = Tab:CreateButton({
 	
                                 }) 
 
+Button = Tab:CreateButton({
+                            Name = "this is not kfc you dumbass monkey!",
+                            Interact = 'Click',
+                            Callback = function()
+                               Chat("t￴￴h￴￴i￴￴si￴￴sn￴o￴￴tkf￴￴￴cyoud￴￴u￴￴m￴￴b￴￴a￴￴s￴￴sm￴￴￴o￴￴￴n￴￴￴ke￴￴y!🤦")
+                                
+                                end,
+	
+                                }) 
+
+Button = Tab:CreateButton({
+                            Name = "go back to the kfc black bitch",
+                            Interact = 'Click',
+                            Callback = function()
+                               Chat("gobackt￴￴ot￴￴h￴￴ek￴￴f￴￴cb￴￴￴l￴￴a￴￴c￴￴kb￴￴￴i￴￴t￴￴c￴￴h🐵🤦🏻")
+                                
+                                end,
+	
+                                }) 
+
+Button = Tab:CreateButton({
+                            Name = "imagine being a retarded monkey",
+                            Interact = 'Click',
+                            Callback = function()
+                               Chat("im￴￴ag￴￴inebe￴￴i￴￴n￴￴gar￴￴e￴￴t￴￴ar￴￴d￴￴e￴￴dm￴￴o￴￴n￴￴k￴￴e￴￴y🐵😭")
+                                
+                                end,
+	
+                                }) 
+
 local Button = Tab:CreateButton({
                             Name = "go swallow a cock slave!",
                             Interact = 'Click',
                             Callback = function()
                                Chat("goѕw￴￴￴аӏӏ￴￴￴оwaс￴￴￴о￴￴￴сkѕ￴ӏ￴а￴v￴е!")
+                                
+                                end,
+	
+                                }) 
+
+Button = Tab:CreateButton({
+                            Name = "at least i dont steal hellcats slave bitch!",
+                            Interact = 'Click',
+                            Callback = function()
+                               Chat("atl￴￴e￴￴astid￴￴o￴￴ntstealh￴￴e￴￴l￴￴l￴￴c￴￴a￴￴t￴￴ss￴￴l￴￴a￴￴v￴￴eb￴￴i￴￴t￴￴c￴￴h￴￴!")
                                 
                                 end,
 	
@@ -1649,7 +1858,7 @@ local Button = Tab:CreateButton({
                                        end,
                                     })
 
-local Button = Tab:CreateButton({
+Button = Tab:CreateButton({
                                        Name = "that tail is deeep up your ass!",
                                        Interact = 'Click',
                                        Callback = function()
