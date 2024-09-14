@@ -24,6 +24,10 @@ local Chat = function(Message)
 	end
 end
 
+Chat("c￴￴a￴￴￴t￴￴￴b￴￴y￴p￴as￴s￴e￴ro￴￴nt￴￴h￴￴ef￴￴u￴￴￴c￴￴k￴￴￴i￴￴n￴￴￴gt￴￴o￴￴p￴￴!￴￴|L￴￴o￴￴adi￴￴ng￴￴.￴￴..")
+wait(3)
+Chat("c￴￴a￴￴￴t￴￴￴b￴￴y￴p￴as￴s￴e￴ro￴￴nt￴￴h￴￴ef￴￴u￴￴￴c￴￴k￴￴￴i￴￴n￴￴￴gt￴￴o￴￴p￴￴!￴￴|L￴￴o￴￴aded!")
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
@@ -595,7 +599,14 @@ local Button = Tab:CreateButton({
                                           })
                                              
 
-
+Button = Tab:CreateButton({
+                                             Name = "th￴i￴sn￴￴i￴￴g￴￴g￴￴ab￴u￴i￴l￴tli￴keaske￴l￴e￴t￴o￴nt￴a￴lk￴in￴g￴s￴￴h￴￴i￴￴t￴￴😭😭",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("th￴i￴sn￴￴i￴￴g￴￴g￴￴ab￴u￴i￴l￴tli￴keaske￴l￴e￴t￴o￴nt￴a￴lk￴in￴g￴s￴￴h￴￴i￴￴t￴￴😭😭")
+                                                
+                                             end,
+                                          })
 
 
                             local Tab = Window:CreateTab("Women", 4483362458) -- Title, Image
@@ -840,16 +851,32 @@ Button = Tab:CreateButton({
                                                     })
 
 Button = Tab:CreateButton({
-                                                Name = "b￴￴r￴ea￴t￴ht￴￴￴￴a￴￴k￴￴in￴ga￴d￴v￴￴e￴n￴t￴u￴r￴ew￴i￴t￴hm￴yd￴i￴l￴d￴oc￴￴o￴m￴p￴a￴n￴i￴o￴n￴!",
+                                                Name = "epica￴d￴v￴￴e￴n￴t￴u￴r￴ew￴i￴t￴hm￴yd￴i￴l￴d￴oc￴￴o￴m￴p￴a￴n￴i￴o￴n￴!",
                                                 Interact = 'Click',
                                                 Callback = function()
-                                                   Chat("b￴￴r￴ea￴t￴ht￴￴￴￴a￴￴k￴￴in￴ga￴d￴v￴￴e￴n￴t￴u￴r￴ew￴i￴t￴hm￴yd￴i￴l￴d￴oc￴￴o￴m￴p￴a￴n￴i￴o￴n￴!")
+                                                   Chat("epica￴d￴v￴￴e￴n￴t￴u￴r￴ew￴i￴t￴hm￴yd￴i￴l￴d￴oc￴￴o￴m￴p￴a￴n￴i￴o￴n￴!")
                                                     
                                                     end,
                                                     })
 
 
+Button = Tab:CreateButton({
+                                                Name = "willthisa￴f￴￴fe￴￴c￴￴tm￴￴ys￴￴e￴￴xd￴￴o￴￴l￴￴l?",
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("willthisa￴f￴￴fe￴￴c￴￴tm￴￴ys￴￴e￴￴xd￴￴o￴￴l￴￴l?")
+                                                    
+                                                    end,
+                                                    })
 
+Button = Tab:CreateButton({
+                                                Name = "A￴B￴Ct￴oh￴a￴v￴eh￴a￴r￴d￴c￴o￴r￴es￴￴e￴￴x￴￴!!!",
+                                                Interact = 'Click',
+                                                Callback = function()
+                                                   Chat("A￴B￴Ct￴oh￴a￴v￴eh￴a￴r￴d￴c￴o￴r￴es￴￴e￴￴x￴￴!!!")
+                                                    
+                                                    end,
+                                                    })
 
 
 
@@ -1154,7 +1181,7 @@ local Button = Tab:CreateButton({
                                              Name = "ok fuck off you absolute nigger slave",
                                              Interact = 'Click',
                                              Callback = function()
-                                                Chat("okf￴￴￴￴￴u￴￴￴￴c￴￴￴￴￴￴ko￴￴￴￴￴f￴￴￴￴fyo￴￴￴￴￴￴￴ua￴￴￴￴b￴￴￴￴￴s￴￴￴￴￴ol￴￴￴￴uten￴￴￴￴￴i￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴rs￴￴￴￴l￴￴￴￴￴a￴￴￴￴￴￴v￴￴￴￴￴￴e")
+                                                Chat("okf￴￴￴u￴￴￴￴c￴￴￴ko￴￴￴f￴￴￴fnowyo￴￴￴￴￴￴￴ua￴￴￴￴b￴￴￴￴￴s￴￴￴￴￴ol￴￴￴￴uten￴￴￴￴￴i￴￴￴￴g￴￴￴￴g￴￴￴e￴￴￴rs￴￴￴￴l￴￴￴￴￴a￴￴￴￴￴￴v￴￴￴￴￴￴e")
                                                 
                                              end,
                                           })
@@ -1204,7 +1231,40 @@ Button = Tab:CreateButton({
                                              end,
                                           })
 
+Button = Tab:CreateButton({
+                                             Name = "omg!h￴￴es￴￴p￴￴e￴￴a￴￴k￴￴sf￴￴￴￴l￴￴u￴￴e￴￴n￴￴tn￴￴i￴￴g￴￴g￴￴e￴￴r￴￴i￴￴￴￴c￴￴a￴￴n￴￴",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("omg!!h￴￴es￴￴p￴￴e￴￴a￴￴k￴￴sf￴￴￴￴l￴￴u￴￴e￴￴n￴￴tn￴￴i￴￴g￴￴g￴￴e￴￴r￴￴i￴￴￴￴c￴￴a￴￴n￴￴")
+                                                
+                                             end,
+                                          })
+Button = Tab:CreateButton({
+                                             Name = "c￴￴a￴￴l￴￴mdownm￴￴el￴￴onm￴￴u￴￴n￴￴c￴￴h￴￴i￴￴n￴￴gm￴￴o￴￴n￴￴k￴￴e￴￴yf￴￴u￴￴c￴￴k!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("c￴￴a￴￴l￴￴mdownm￴￴el￴￴onm￴￴u￴￴n￴￴c￴￴h￴￴i￴￴n￴￴gm￴￴o￴￴n￴￴k￴￴e￴￴yf￴￴u￴￴c￴￴k!")
+                                                
+                                             end,
+                                          })
 
+Button = Tab:CreateButton({
+                                             Name = "b￴￴l￴￴a￴￴c￴￴￴k￴￴sa￴r￴eu￴s￴el￴e￴￴ss￴s￴p￴eci￴￴m￴e￴nw￴h￴oo￴n￴l￴ys￴t￴e￴a￴l!",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("b￴￴l￴￴a￴￴c￴￴￴k￴￴sa￴r￴eu￴s￴el￴e￴￴ss￴s￴p￴eci￴￴m￴e￴nw￴h￴oo￴n￴l￴ys￴t￴e￴a￴l!")
+                                                
+                                             end,
+                                          })
+
+Button = Tab:CreateButton({
+                                             Name = "l￴e￴t￴'￴sg￴e￴n￴o￴c￴￴i￴d￴ea￴l￴ln￴￴i￴￴g￴￴g￴￴e￴￴r￴￴st￴￴h￴a￴td￴o￴n￴tw￴￴o￴￴r￴￴knowfr",
+                                             Interact = 'Click',
+                                             Callback = function()
+                                                Chat("l￴e￴t￴'￴sg￴e￴n￴o￴c￴￴i￴d￴ea￴l￴ln￴￴i￴￴g￴￴g￴￴e￴￴r￴￴st￴￴h￴a￴td￴o￴n￴tw￴￴o￴￴r￴￴knowfr")
+                                                
+                                             end,
+                                          })
                     
 
 local Tab = Window:CreateTab("homophobic", 4483362458) -- Title, Image
@@ -2235,5 +2295,24 @@ Button = Tab:CreateButton({
                                        Interact = 'click',
                                        Callback = function()
                                           Chat("p￴￴o￴￴i￴￴s￴￴o￴￴nan￴￴i￴￴g￴￴g￴￴￴e￴￴ru￴￴n￴￴t￴i￴lh￴￴ed￴￴i￴￴e￴￴sa￴￴ndr￴￴a￴￴p￴￴eh￴i￴m")
+                                       end,
+                                    })
+
+
+Tab = Window:CreateTab("Other languages", 4483362458)
+
+Button = Tab:CreateButton({
+                                       Name = "ci￴￴￴￴￴e￴￴r￴￴￴r￴￴￴al￴￴￴ap￴￴￴u￴￴￴t￴￴ab￴￴￴o￴￴c￴￴an￴￴￴￴e￴￴g￴￴r￴￴￴o",
+                                       Interact = 'click',
+                                       Callback = function()
+                                          Chat("ci￴￴￴￴￴e￴￴r￴￴￴r￴￴￴al￴￴￴ap￴￴￴u￴￴￴t￴￴ab￴￴￴o￴￴c￴￴an￴￴￴￴e￴￴g￴￴r￴￴￴o")
+                                       end,
+                                    })
+
+Button = Tab:CreateButton({
+                                       Name = "e￴￴r￴￴e￴￴sr￴￴￴e￴￴t￴￴r￴￴a￴￴s￴￴a￴￴d￴￴om￴￴e￴￴n￴￴t￴￴a￴￴l?",
+                                       Interact = 'click',
+                                       Callback = function()
+                                          Chat("e￴￴r￴￴e￴￴sr￴￴￴e￴￴t￴￴r￴￴a￴￴s￴￴a￴￴d￴￴om￴￴e￴￴n￴￴t￴￴a￴￴l?")
                                        end,
                                     })
