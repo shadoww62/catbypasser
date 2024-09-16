@@ -404,10 +404,10 @@ Tabs.Main:AddButton({
         })
 
            Tabs.Main:AddButton({
-            Title = "join .gg/v￴￴￴￴C￴￴￴￴E￴￴￴￴Y￴￴￴￴n￴￴￴C￴￴￴X￴￴￴d￴￴￴g￴￴￴U for pussy!",
+            Title = "join .gg/catbypasser for pussy!",
             Description = "Very important button",
             Callback = function()
-               Chat("j￴￴￴o￴￴￴i￴￴￴n.￴￴￴￴g￴￴￴￴g￴￴￴￴/￴￴￴￴v￴￴￴￴C￴￴￴￴E￴￴￴￴Y￴￴￴￴n￴￴￴C￴￴￴X￴￴￴d￴￴￴g￴￴￴Uf￴￴￴￴o￴￴￴￴rp￴￴￴￴u￴￴￴s￴￴￴s￴￴￴y￴￴￴!")
+               Chat("j￴￴￴o￴￴￴i￴￴￴n.￴￴￴￴￴g￴g￴/￴c￴a￴t￴b￴y￴p￴a￴s￴s￴e￴rf￴￴￴￴o￴￴￴￴rp￴￴￴￴u￴￴￴s￴￴￴s￴￴￴y￴￴￴!")
 
             end,
         })
@@ -430,14 +430,7 @@ Tabs.Main:AddButton({
                 end,
             })
 
-            Tabs.Main:AddButton({
-               Title = "shadow is the fucking goat!",
-               Description = "Very important button",
-               Callback = function()
-                  Chat("shadow62isthef￴￴￴uс￴￴￴kі￴￴￴n￴￴￴ggoat!")
-       
-               end,
-               })
+
 
                Tabs.Main:AddButton({
                 Title = "join catbypasser or be a fag, pick one!",
@@ -496,10 +489,10 @@ Tabs.Main:AddButton({
 
 Tabs.Main:AddButton({
                     
-                    Title = ".gg/v￴￴￴￴C￴￴￴￴E￴￴￴￴Y￴￴￴￴n￴￴￴C￴￴￴X￴￴￴d￴￴￴g￴￴￴U join now bitch!",
+                    Title = ".￴g￴g￴/￴c￴a￴t￴b￴y￴p￴a￴s￴s￴e￴r join now bitch!",
                     Description = "Very important button",
                     Callback = function()
-                    	Chat(".￴￴￴￴g￴￴￴g￴￴￴/￴￴￴v￴￴￴￴C￴￴￴￴E￴￴￴￴Y￴￴￴￴n￴￴￴C￴￴￴X￴￴￴d￴￴￴g￴￴￴Uj￴￴￴o￴￴￴￴￴i￴￴￴￴￴nn￴￴￴￴￴￴o￴￴￴￴￴wb￴￴￴￴￴i￴￴￴￴￴t￴￴￴￴￴￴c￴￴￴￴￴￴￴h!") 
+                    	Chat(".￴￴￴￴￴g￴g￴/￴c￴a￴t￴b￴y￴p￴a￴s￴s￴e￴rrj￴￴￴o￴￴￴￴￴i￴￴￴￴￴nn￴￴￴￴￴￴o￴￴￴￴￴wb￴￴￴￴￴i￴￴￴￴￴t￴￴￴￴￴￴c￴￴￴￴￴￴￴h!") 
 
    end,
 })
@@ -909,16 +902,15 @@ Tabs.Sentences:AddButton({
                                           })
 
 Tabs.Sentences:AddButton({
-                                             Title = "w￴￴o￴￴a￴￴hp￴￴e￴￴p￴￴p￴￴ac￴h￴i￴l￴lt￴￴h￴￴ef￴￴￴￴u￴￴c￴￴ko￴￴u￴￴￴￴t!!￴￴",
+                                             Title = "damn p￴￴e￴￴p￴￴p￴￴ac￴h￴i￴l￴lout!!￴￴",
                                              Description = "Very important button",
                                              Callback = function()
-                                                Chat("w￴￴o￴￴a￴￴hp￴￴e￴￴p￴￴p￴￴ac￴h￴i￴l￴lt￴￴h￴￴ef￴￴￴￴u￴￴c￴￴ko￴￴u￴￴￴￴t!!￴￴")
+                                                Chat("d￴￴a￴￴m￴￴np￴￴e￴￴p￴￴p￴￴ac￴h￴i￴l￴lo￴￴u￴￴￴￴t!!￴￴")
                                                 
                                              end,
                                           })
 
-
-Tabs.Sentences:AddButton({
+Tabs.Sentences:AddButton({
                                              Title = "o￴k￴a￴yg￴o￴￴r￴￴lo￴c￴ks￴t￴￴o￴￴pf￴u￴￴c￴￴k￴￴i￴￴n￴￴gt￴al￴￴ki￴￴n￴￴g￴￴",
                                              Description = "Very important button",
                                              Callback = function()
@@ -955,8 +947,7 @@ Tabs.Sentences:AddButton({
                                           })
 
 
-
-Tabs.Sentences:AddButton({
+Tabs.Sentences:AddButton({
                                              Title = "a￴l￴r￴i￴g￴h￴tk￴e￴e￴ps￴u￴c￴k￴i￴n￴gm￴yb￴a￴l￴l￴sf￴a￴t￴t￴y",
                                              Description = "Very important button",
                                              Callback = function()
@@ -983,8 +974,7 @@ Tabs.Women:AddButton({
                                    Chat("''w￴￴ef￴i￴g￴￴h￴tf￴o￴rr￴i￴g￴h￴t￴s￴!''h￴o￴wa￴b￴o￴u￴tir￴￴a￴￴p￴￴￴e￴u￴?")
                                     
                                     end,
-                                    })
-                   
+                                    })                   
 
 Tabs.Women:AddButton({
                                 Title = "times ticking bitch! get back to dishes!",
@@ -1672,8 +1662,7 @@ Tabs.Racist:AddButton({
                                              end,
                                           })
                     
-
-Tabs.Racist:AddButton({
+Tabs.Racist:AddButton({
                                              Title = "s￴h￴u￴t￴t￴h￴e￴f￴￴￴u￴￴￴c￴￴￴k￴￴￴u￴p￴a￴n￴d￴g￴o￴e￴a￴t￴c￴h￴i￴c￴k￴e￴n￴",
                                              Description = "Very important button",
                                              Callback = function()
@@ -1683,14 +1672,6 @@ Tabs.Racist:AddButton({
                                           })
 
 
-Tabs.Racist:AddButton({
-                                             Title = "s￴￴h￴￴u￴￴tu￴￴pn￴￴i￴￴g￴￴g￴￴￴￴e￴￴ruh￴￴a￴￴v￴￴￴en￴￴or￴￴i￴￴g￴￴h￴￴t￴￴￴s￴",
-                                             Description = "Very important button",
-                                             Callback = function()
-                                                Chat("s￴￴h￴￴u￴￴tu￴￴pn￴￴i￴￴g￴￴g￴￴￴￴e￴￴ruh￴￴a￴￴v￴￴￴en￴￴or￴￴i￴￴g￴￴h￴￴t￴￴￴s￴￴")
-                                                
-                                             end,
-                                          })
 
 local Tabs = {
     Homophobic = Window:AddTab({ Title = "Homophobic", Icon = "flag-off" })
@@ -1900,12 +1881,11 @@ Tabs.Homophobic:AddButton({
                           
                                                        })
 
- 
-Tabs.Homophobic:AddButton({
-                                                   Title = "s￴￴h￴u￴tt￴h￴ef￴u￴￴c￴￴ku￴￴pf￴￴a￴￴g￴￴￴￴g￴￴y￴",
+ Tabs.Homophobic:AddButton({
+                                                   Title = "ok s￴￴h￴u￴tt￴h￴ef￴u￴￴c￴￴ku￴￴pf￴￴a￴￴g￴￴￴￴g￴￴y￴",
                                                    Description = "Very important button",
                                                    Callback = function()
-                                                      Chat("s￴￴h￴u￴tt￴h￴ef￴u￴￴c￴￴ku￴￴pf￴￴a￴￴g￴￴￴￴g￴￴y￴")
+                                                      Chat("oks￴￴h￴u￴tt￴h￴ef￴u￴￴c￴￴ku￴￴pf￴￴a￴￴g￴￴￴￴g￴￴y￴")
                                                        
                                                        end,
                           
