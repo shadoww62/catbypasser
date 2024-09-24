@@ -1,0 +1,408 @@
+local validKey = "premium"
+
+local function showNotification(message)
+    NotificationLabel:SetText(message)
+    wait(3)  -- Wait for 3 seconds
+    NotificationLabel:SetText("")  -- Clear the notification
+end
+
+
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+
+local Window = Fluent:CreateWindow({
+   Title = "catbypasser v1.6 Premium",
+   SubTitle = "by shadow62 and c2vp",
+   TabWidth = 160,
+   Size = UDim2.fromOffset(580, 460),
+   Acrylic = false, -- Disable blur if you want
+   Theme = Darker, -- Apply the custom red theme
+   MinimizeKey = Enum.KeyCode.LeftControl
+})
+
+local Tabs = {
+    Main = Window:AddTab({ Title = "Key System", Icon = "" })
+}
+
+Window:SelectTab(1)
+
+-- Add an input field for the key
+local Input = Tabs.Main:AddInput("Input", {
+    Title = "Enter key",
+    Description = "Enter your key here",
+    Default = "",
+    Placeholder = "Key",
+    Numeric = false, -- Set to true if the key is numeric only
+    Finished = true, -- Only calls callback when you press enter
+    Callback = function(inputKey)
+	
+        -- Check if the input key matches the valid key
+        if inputKey == validKey then
+            print("enjou using catbypasser")
+			Fluent:Destroy()
+			
+			task.spawn(function()
+			
+			
+			
+			local player = game.Players.LocalPlayer
+
+if player.UserId == 636407818 or 7349825009 or 3368904429 or 6226128678 or 343950587 or 1322650792 or 7247720025 or 812945419 or 5367194780 or 7349308604 then
+    print("enjoy using premium catbypasser")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))()
+
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "catbypasser";
+        Text = "enjoy using premium! <3"; -- The message
+        Duration = 5; -- Time the notification stays on screen (seconds)
+        Icon = "rbxassetid://129982839262750"
+    })
+else
+    player:Kick("you dont have premium dumbass nigger")
+end
+
+
+
+local TCS = game:GetService("TextChatService")
+local CoreGui = game:GetService("CoreGui")
+local RStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local HttpService = game:GetService("HttpService")
+local UserInputService = game:GetService("UserInputService")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer.PlayerGui
+local isLegacy = TCS.ChatVersion == Enum.ChatVersion.LegacyChatService
+local ChatBar = CoreGui:FindFirstChild("TextBoxContainer", true) or PlayerGui:FindFirstChild("Chat"):FindFirstChild("ChatBar", true)
+ChatBar = ChatBar:FindFirstChild("TextBox") or ChatBar
+
+local Chat = function(Message)
+	if isLegacy then
+		local ChatRemote = RStorage:FindFirstChild("SayMessageRequest", true)
+		ChatRemote:FireServer(Message, "All")
+	else
+		local Channel = TCS.TextChannels.RBXGeneral
+		Channel:SendAsync(Message)
+	end
+
+
+
+
+local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
+
+
+
+-- Applying the theme to your window
+local Window = Fluent:CreateWindow({
+   Title = "catbypasser v1.6 Premium",
+   SubTitle = "by shadow62 and c2vp",
+   TabWidth = 160,
+   Size = UDim2.fromOffset(580, 460),
+   Acrylic = false, -- Disable blur if you want
+   Theme = Darker, -- Apply the custom red theme
+   MinimizeKey = Enum.KeyCode.LeftControl
+})
+
+
+
+
+
+      local Tabs = {
+    Main = Window:AddTab({ Title = "Main", Icon = "info" }),
+}
+
+Window:SelectTab(1)
+
+Tabs.Main:AddParagraph({
+    Title = "Info",
+    Content = "Supported language detected! Enjoy this version"
+})
+	
+	Tabs.Main:AddParagraph({
+    Title = "Important",
+    Content = "Thank you so much for having premium!"
+})
+	
+
+	Tabs.Main:AddButton({
+    Title = "Fix tagging",
+   Description = "Very important button",
+   Callback = function()
+      Chat("abcAbcabc")
+
+   end,
+ })
+	
+	
+	Tabs.Main:AddButton({
+    Title = "join .gg/catbypasser for child porn",
+   Description = "Very important button",
+   Callback = function()
+      Chat("j￴o￴i￴n￴.￴g￴g￴/￴c￴a￴￴t￴b￴y￴p￴a￴s￴s￴e￴rf￴o￴rc￴￴h￴￴i￴￴l￴￴dp￴￴o￴￴r￴￴n")
+
+   end,
+ })
+
+ Tabs.Main:AddButton({
+    Title = "join .gg/catbypasser for sexy latinas",
+   Description = "Very important button",
+   Callback = function()
+      Chat("j￴o￴i￴n￴.￴g￴g￴/￴c￴a￴￴t￴b￴y￴p￴a￴s￴s￴e￴rf￴o￴rs￴￴e￴￴x￴￴yl￴￴￴a￴￴t￴￴i￴￴￴n￴￴a￴￴￴s￴￴")
+
+   end,
+ })
+
+ Tabs.Main:AddButton({
+    Title = "j￴o￴i￴n￴.￴g￴g￴/￴c￴a￴￴t￴b￴y￴p￴a￴s￴s￴e￴rt￴og￴￴e￴￴tn￴￴i￴￴g￴￴g￴￴e￴￴rs￴l￴a￴v￴e￴sfor0$!",
+   Description = "Very important button",
+   Callback = function()
+      Chat("j￴o￴i￴n￴.￴g￴g￴/￴c￴a￴￴t￴b￴y￴p￴a￴s￴s￴e￴rt￴og￴￴e￴￴tn￴￴i￴￴g￴￴g￴￴e￴￴rs￴l￴a￴v￴e￴sfor0$!￴")
+
+   end,
+ })
+
+ Tabs.Main:AddButton({
+    Title = "join .gg/catbypasser for 2x penis size",
+   Description = "Very important button",
+   Callback = function()
+      Chat("j￴o￴i￴n￴.￴g￴g￴/￴c￴a￴￴t￴b￴y￴p￴a￴s￴s￴e￴rf￴o￴r2￴￴x￴￴p￴￴e￴￴n￴￴i￴￴ss￴￴i￴￴z￴￴e￴￴")
+
+   end,
+ })
+
+    
+
+local Tabs = {
+    Child = Window:AddTab({ Title = "Child", Icon = "info" }),
+}
+
+Tabs.Child:AddButton({
+    Title = "iw￴a￴n￴n￴ah￴a￴v￴es￴￴e￴￴xw￴i￴t￴hac￴h￴i￴l￴ds￴ob￴a￴d.￴.",
+   Description = "Very important button",
+   Callback = function()
+      Chat("iw￴a￴n￴n￴ah￴a￴v￴es￴￴e￴￴xw￴i￴t￴hac￴h￴i￴l￴ds￴ob￴a￴d.￴.￴")
+
+   end,
+ })
+
+ local Tabs = {
+    Sentences = Window:AddTab({ Title = "Sentences", Icon = "info" }),
+}
+
+Tabs.Sentences:AddButton({
+    Title = "#￴p￴a￴c￴k￴w￴a￴t￴c￴h￴t￴h￴i￴sn￴￴i￴￴g￴￴g￴￴af￴￴u￴￴c￴￴k￴￴i￴￴n￴￴gd￴e￴a￴dl￴o￴l￴!￴!￴!",
+   Description = "Very important button",
+   Callback = function()
+      Chat("#￴p￴a￴c￴k￴w￴a￴t￴c￴h￴t￴h￴i￴sn￴￴i￴￴g￴￴g￴￴af￴￴u￴￴c￴￴k￴￴i￴￴n￴￴gd￴e￴a￴dl￴o￴l￴!￴!￴!")
+
+   end,
+ })
+
+ Tabs.Sentences:AddButton({
+    Title = "i￴￴￴d￴￴c￴￴f￴￴￴u￴￴c￴￴￴￴k￴￴￴￴yo￴￴ug￴￴oc￴￴o￴￴m￴￴￴￴m￴￴￴i￴￴ts￴￴￴u￴￴i￴￴c￴￴i￴￴￴d￴￴e",
+   Description = "Very important button",
+   Callback = function()
+      Chat("i￴￴￴d￴￴c￴￴f￴￴￴u￴￴c￴￴￴￴k￴￴￴￴yo￴￴ug￴￴oc￴￴o￴￴m￴￴￴￴m￴￴￴i￴￴ts￴￴￴u￴￴i￴￴c￴￴i￴￴￴d￴￴e")
+
+   end,
+ })
+
+ Tabs.Sentences:AddButton({
+    Title = "t￴￴￴o￴￴￴ob￴￴a￴￴￴dy￴￴o￴￴ut￴￴a￴￴r￴￴d￴￴g￴￴ok￴￴y￴￴s￴￴",
+   Description = "Very important button",
+   Callback = function()
+      Chat("t￴￴￴o￴￴￴ob￴￴a￴￴￴dy￴￴o￴￴ut￴￴a￴￴r￴￴d￴￴g￴￴ok￴￴y￴￴s￴￴")
+
+   end,
+ })
+
+
+ 
+ Tabs.Sentences:AddButton({
+    Title = "w￴own￴￴i￴￴g￴g￴￴ac￴￴￴h￴￴￴i￴￴￴l￴￴￴lo￴uty￴ou￴rv￴e￴i￴nsf￴i￴n￴n￴ap￴o￴p",
+   Description = "Very important button",
+   Callback = function()
+      Chat("w￴own￴￴i￴￴g￴g￴￴ac￴￴￴h￴￴￴i￴￴￴l￴￴￴lo￴uty￴ou￴rv￴e￴i￴nsf￴i￴n￴n￴ap￴o￴p￴￴")
+
+   end,
+ })
+
+ local Tabs = {
+    ["Fat Shaming"] = Window:AddTab({ Title = "Fat Shaming", Icon = "info" }),
+}
+
+ Tabs["Fat Shaming"]:AddButton({
+    Title = "s￴￴h￴￴u￴￴tt￴￴h￴￴ef￴￴u￴￴c￴￴ku￴pf￴a￴tp￴i￴g￴",
+   Description = "Very important button",
+   Callback = function()
+      Chat("s￴￴h￴￴u￴￴tt￴￴h￴￴ef￴￴u￴￴c￴￴ku￴pf￴a￴tp￴i￴g")
+
+   end,
+ })
+
+ Tabs["Fat Shaming"]:AddButton({
+    Title = "h￴e￴l￴￴p￴￴!￴￴!￴￴af￴￴a￴￴tb￴￴i￴￴t￴￴c￴￴h￴￴i￴￴sf￴o￴l￴l￴o￴w￴i￴n￴gm￴￴￴e￴!!",
+   Description = "Very important button",
+   Callback = function()
+      Chat("h￴e￴l￴￴p￴￴!￴￴!￴￴af￴￴a￴￴tb￴￴i￴￴t￴￴c￴￴h￴￴i￴￴sf￴o￴l￴l￴o￴w￴i￴n￴gm￴￴￴e￴!!")
+
+   end,
+ })
+
+ Tabs["Fat Shaming"]:AddButton({
+   Title = "s￴h￴u￴t￴￴y￴o￴u￴r￴f￴￴u￴￴c￴￴k￴￴i￴￴n￴￴g￴￴m￴o￴u￴t￴h￴l￴a￴n￴d￴w￴h￴a￴l￴e￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("s￴h￴u￴t￴￴y￴o￴u￴r￴f￴￴u￴￴c￴￴k￴￴i￴￴n￴￴g￴￴m￴o￴u￴t￴h￴l￴a￴n￴d￴w￴h￴a￴l￴e￴")
+
+  end,
+})
+
+
+Tabs["Fat Shaming"]:AddButton({
+   Title = "g￴o￴d￴d￴a￴m￴n￴l￴i￴z￴z￴o￴s￴t￴o￴pb￴e￴i￴n￴g￴af￴￴a￴￴t￴￴b￴￴i￴￴t￴c￴￴h￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("g￴o￴d￴d￴a￴m￴n￴l￴i￴z￴z￴o￴s￴t￴o￴pb￴e￴i￴n￴g￴af￴￴a￴￴t￴￴b￴￴i￴￴t￴c￴￴h￴￴")
+
+  end,
+})
+
+Tabs["Fat Shaming"]:AddButton({
+   Title = "s￴t￴o￴p￴t￴h￴et￴a￴l￴ky￴o￴uf￴￴u￴￴c￴￴k￴￴i￴￴n￴￴g￴￴f￴a￴t￴t￴y￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("s￴t￴o￴p￴t￴h￴et￴a￴l￴ky￴o￴uf￴￴u￴￴c￴￴k￴￴i￴￴n￴￴g￴￴f￴a￴t￴t￴y￴￴￴")
+
+  end,
+})
+
+Tabs["Fat Shaming"]:AddButton({
+   Title = "o￴k￴a￴y￴f￴a￴t￴t￴y￴k￴e￴epf￴￴u￴￴c￴￴k￴￴i￴￴n￴gt￴￴a￴￴l￴￴k￴￴i￴￴n￴￴g￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("o￴k￴a￴y￴f￴a￴t￴t￴y￴k￴e￴epf￴￴u￴￴c￴￴k￴￴i￴￴n￴gt￴￴a￴￴l￴￴k￴￴i￴￴n￴￴g￴￴￴")
+
+  end,
+})
+
+Tabs["Fat Shaming"]:AddButton({
+   Title = "g￴e￴t￴t￴h￴e￴f￴￴u￴￴c￴￴k￴o￴u￴t￴f￴a￴t￴s￴o￴￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("g￴e￴t￴t￴h￴e￴f￴￴u￴￴c￴￴k￴o￴u￴t￴f￴a￴t￴s￴o￴￴￴￴")
+
+  end,
+})
+
+
+
+
+ local Tabs = {
+    Homophobic = Window:AddTab({ Title = "Homophobic", Icon = "info" }),
+}
+
+Tabs.Homophobic:AddButton({
+    Title = "a￴l￴r￴i￴g￴h￴tf￴￴￴a￴￴g￴￴g￴￴o￴￴t￴￴m￴o￴￴n￴￴k￴￴￴e￴￴￴y￴￴￴￴￴￴￴c￴￴h￴￴i￴￴l￴￴￴l￴￴o￴￴u￴t￴￴l￴￴o￴￴l￴￴",
+   Description = "Very important button",
+   Callback = function()
+      Chat("a￴l￴r￴i￴g￴h￴tf￴￴￴a￴￴g￴￴g￴￴o￴￴t￴￴m￴o￴￴n￴￴k￴￴￴e￴￴￴y￴￴￴￴￴￴￴c￴￴h￴￴i￴￴l￴￴￴l￴￴o￴￴u￴t￴￴l￴￴o￴￴l￴￴")
+
+   end,
+ })
+
+ local Tabs = {
+   Racist = Window:AddTab({ Title = "Racist", Icon = "info" }),
+}
+
+Tabs.Racist:AddButton({
+   Title = "n￳i￳￳g￳g￳￳e￳￳r￴l￴i￴v￴e￴s￴d￴o￴n￴t￴m￴a￴t￴t￴e￴r￴￴￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("n￳i￳￳g￳g￳￳e￳￳r￴l￴i￴v￴e￴s￴d￴o￴n￴t￴m￴a￴t￴t￴e￴r￴￴￴￴￴")
+
+  end,
+})
+
+Tabs.Racist:AddButton({
+   Title = "g￳os￳t￳e￳a￳ls￳o￳m￳e￳h￳e￳l￳l￳c￳a￳ts￳n￳i￳￳g￳g￳￳e￳￳r￴￴￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("g￳os￳t￳e￳a￳ls￳o￳m￳e￳h￳e￳l￳l￳c￳a￳ts￳n￳i￳￳g￳g￳￳e￳￳r￴￴￴￴￴")
+
+  end,
+})
+
+Tabs.Racist:AddButton({
+   Title = "s￳￳o￳￳m￳￳e￳￳o￳￳n￳￳et￳e￳l￳lth￳i￳￳s￳n￳￳i￳￳g￳￳￳g￳￳e￳￳rt￳￳o￳s￳￳h￳￳u￳￳tu￳￳p￴￴￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("s￳￳o￳￳m￳￳e￳￳o￳￳n￳￳et￳e￳l￳lth￳i￳￳s￳n￳￳i￳￳g￳￳￳g￳￳e￳￳rt￳￳o￳s￳￳h￳￳u￳￳tu￳￳p￴￴￴￴￴")
+
+  end,
+})
+
+Tabs.Racist:AddButton({
+   Title = "f￳u￴c￳k￳y￳o￳u￳￳n￳￳i￳g￳￳g￳￳e￳￳rg￳ok￳￳y￳￳s￳￴￴￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("f￳u￴c￳k￳y￳o￳u￳￳n￳￳i￳g￳￳g￳￳e￳￳rg￳ok￳￳y￳￳s￳￴￴￴￴￴")
+
+  end,
+})
+
+Tabs.Racist:AddButton({
+   Title = "okn￳￳i￳￳g￳￳g￳￳e￳￳rf￳￳u￳￳c￳ko￳￳f￳￳f￳￳￴￴￴￴",
+  Description = "Very important button",
+  Callback = function()
+     Chat("okn￳￳i￳￳g￳￳g￳￳e￳￳rf￳￳u￳￳c￳ko￳￳f￳￳f￳￳￴￴￴￴￴")
+
+  end,
+})
+
+local Tabs = {
+   Misc = Window:AddTab({ Title = "Misc", Icon = "info" }),
+}
+
+Tabs.Misc:AddButton({
+   Title = "Send a Random number in chat!",
+   Description = "(1 - 100)",
+   Callback = function()
+       -- Generate a random number between 1 and 100 (you can adjust the range)
+       local randomNumber = math.random(1, 100)
+
+       -- Send the generated number to chat
+       Chat("Random number: " .. randomNumber)
+   end,
+})
+
+Tabs.Misc:AddButton({
+   Title = "Send a Random Sentence in chat!",
+   Description = "not much",
+   Callback = function()
+       -- List of random sentences
+       local sentences = {
+           "The sleepy blue cat naps under the tall oak.",
+           "A small brown dog barks at the towering fence.",
+           "A tiny red bird sings above the wide river.",
+           "A clever green frog hops across the flat stone.",
+           "The quick brown fox jumps over the lazy dog."
+       }
+
+       -- Select a random sentence
+       local randomIndex = math.random(1, #sentences)
+       local randomSentence = sentences[randomIndex]
+
+       -- Send the selected sentence to chat
+       Chat(randomSentence)
+   end,
+})
+
+
+end)
+        else
+		
+		showNotification("wrong key")
+            print("wrong key.")
+        end
+    end
+})
