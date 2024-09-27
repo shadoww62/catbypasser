@@ -4,7 +4,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/antho
 
 
 
-local TCS = game:GetService("TextChatService")
+local TCS = game:GetService("TextChatService")
 local CoreGui = game:GetService("CoreGui")
 local RStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
@@ -908,7 +908,8 @@ Tabs.Sentences:AddButton({
                                              end,
                                           })
 
-Tabs.Sentences:AddButton({
+
+Tabs.Sentences:AddButton({
                                              Title = "o￴k￴a￴yg￴o￴￴r￴￴lo￴c￴ks￴t￴￴o￴￴pf￴u￴￴c￴￴k￴￴i￴￴n￴￴gt￴al￴￴ki￴￴n￴￴g￴￴",
                                              Description = "Very important button",
                                              Callback = function()
@@ -945,7 +946,8 @@ Tabs.Sentences:AddButton({
                                           })
 
 
-Tabs.Sentences:AddButton({
+
+Tabs.Sentences:AddButton({
                                              Title = "a￴l￴r￴i￴g￴h￴tk￴e￴e￴ps￴u￴c￴k￴i￴n￴gm￴yb￴a￴l￴l￴sf￴a￴t￴t￴y",
                                              Description = "Very important button",
                                              Callback = function()
@@ -972,7 +974,8 @@ Tabs.Women:AddButton({
                                    Chat("''w￴￴ef￴i￴g￴￴h￴tf￴o￴rr￴i￴g￴h￴t￴s￴!''h￴o￴wa￴b￴o￴u￴tir￴￴a￴￴p￴￴￴e￴u￴?")
                                     
                                     end,
-                                    })                   
+                                    })
+                   
 
 Tabs.Women:AddButton({
                                 Title = "times ticking bitch! get back to dishes!",
@@ -1245,7 +1248,8 @@ Tabs.Fun:AddButton({
                                                     end,
                                                     })
 
-Tabs.Fun:AddButton({
+
+Tabs.Fun:AddButton({
                                                 Title = "i￳s￳￳h￳￳i￳￳t￳i￳n￳m￳y￳s￳i￳s￳t￳e￳r￳'￳s￳m￳o￳u￳t￳h￳e￳v￳e￳r￳y￳d￳a￳y",
                                                 Description = "Very important button",
                                                 Callback = function()
@@ -1687,7 +1691,8 @@ Tabs.Racist:AddButton({
                                              end,
                                           })
                     
-Tabs.Racist:AddButton({
+
+Tabs.Racist:AddButton({
                                              Title = "s￴h￴u￴t￴t￴h￴e￴f￴￴￴u￴￴￴c￴￴￴k￴￴￴u￴p￴a￴n￴d￴g￴o￴e￴a￴t￴c￴h￴i￴c￴k￴e￴n￴",
                                              Description = "Very important button",
                                              Callback = function()
@@ -1906,7 +1911,8 @@ Tabs.Homophobic:AddButton({
                           
                                                        })
 
- Tabs.Homophobic:AddButton({
+ 
+Tabs.Homophobic:AddButton({
                                                    Title = "ok s￴￴h￴u￴tt￴h￴ef￴u￴￴c￴￴ku￴￴pf￴￴a￴￴g￴￴￴￴g￴￴y￴",
                                                    Description = "Very important button",
                                                    Callback = function()
@@ -2986,4 +2992,4 @@ Tabs["Fat Shaming"]:AddButton({
 	
 
 
-
+
